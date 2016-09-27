@@ -1,6 +1,6 @@
 {
   "name": "@tiddo/mixup",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Enhance objects that are constructed outside of your control",
   "main": "index.js",
   "author": "Tiddo Langerak <tiddolangerak@gmail.com> (https://github.com/TiddoLangerak/)",
