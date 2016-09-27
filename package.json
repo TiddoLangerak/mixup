@@ -1,0 +1,18 @@
+{
+  "name": "@tiddo/mixup",
+  "version": "0.0.1",
+  "description": "Enhance objects that are constructed outside of your control",
+  "main": "index.js",
+  "author": "Tiddo Langerak <tiddolangerak@gmail.com> (https://github.com/TiddoLangerak/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiddoLangerak/mixup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TiddoLangerak/mixup/issues"
+  },
+  "homepage": "https://github.com/TiddoLangerak/mixup#readme"
+}
